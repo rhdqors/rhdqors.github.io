@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   logo             : "/assets/images/2mbpng.png"
-  name             : "Big Iron"
+  name             : ["Big Iron", "/assets/images/2mbpng.png"]
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "소소한 개발 일기"
   location         : "South Korea"
