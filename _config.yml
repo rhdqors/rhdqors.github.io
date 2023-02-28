@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "kr-KR"
 title                    : "개발노트"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "rhdqors"
+subtitle                 : "**백엔드 서버 개발자**를 목표합니다."
+name                     : "BigIron"
 description              : "An amazing website."
 url                      : "https://rhdqors.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "rhdqors"
+  name             : "BigIron"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**백엔드 서버 개발자**를 목표로..."
+  bio              : #"**백엔드 서버 개발자**를 목표합니다."
   location         : "South Korea"
   email            :
   links:
