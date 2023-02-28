@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kr-KR"
+locale                   : "ko-KR"
 title                    : "개발노트"
 title_separator          : "-"
 subtitle                 : "백엔드 서버 개발자를 목표합니다."
@@ -25,7 +25,7 @@ url                      : "https://rhdqors.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"/assets/images/큰1 포샵JPG.jpg" title(개발노트) 옆 이미지 넣기
+logo                     : #"/assets/images/2mbpng.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -75,7 +75,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "9e886e20d0b00f1ed9fa9e629565e9d4ac0acae0"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -104,9 +104,10 @@ analytics:
 
 # Site Author
 author:
+#   logo             : "/assets/images/2mbpng.png"
   name             : "Big Iron"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"**백엔드 서버 개발자**를 목표합니다."
+  bio              : "소소한 개발 일기"
   location         : "South Korea"
   email            :
   links:
