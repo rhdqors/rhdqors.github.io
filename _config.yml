@@ -19,7 +19,7 @@ locale                   : "kr-KR"
 title                    : "개발노트"
 title_separator          : "-"
 subtitle                 : "백엔드 서버 개발자를 목표합니다."
-name                     : "BigIron"
+name                     : "Big Iron"
 description              : "An amazing website."
 url                      : "https://rhdqors.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "BigIron"
+  name             : "Big Iron"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"**백엔드 서버 개발자**를 목표합니다."
   location         : "South Korea"
