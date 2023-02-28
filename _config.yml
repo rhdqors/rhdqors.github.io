@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kr-KR"
+locale                   : "k-KR"
 title                    : "개발노트"
 title_separator          : "-"
 subtitle                 : "백엔드 서버 개발자를 목표합니다."
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Big Iron"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"**백엔드 서버 개발자**를 목표합니다."
+  bio              : "소소한 개발 일기"
   location         : "South Korea"
   email            :
   links:
