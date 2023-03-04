@@ -7,6 +7,8 @@ tags: [Java, Spring, 스프링]
 
 ***
 
+# Spring 기초
+
 ![image](https://user-images.githubusercontent.com/108318494/222224029-0ef2a24a-532b-46ce-83d2-a1895deff651.png)
 
 - 사용자의 요청을 처리한 후, 지정된 뷰에 모델 객체를 넘겨준다.
